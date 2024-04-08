@@ -1,4 +1,4 @@
-# This is a FullStack project using ReactJS, NodeJS, ExpressJS and MongoDB - ZipRecruiter Like jobs portal
+# This is a FullStack project using React, NodeJS, ExpressJS and MongoDB - ZipRecruiter Like jobs portal
 
 ## UI Flow:
 https://github.com/koirpraw/MERN-jobsboard-app/assets/7278348/b4738513-3c07-47b3-b398-2d3cb6a786a8
